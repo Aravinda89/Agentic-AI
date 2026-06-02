@@ -1,2 +1,2 @@
 # Agentic-AI
-deeplearning.ai
+Agentic AI deeplearning.ai
